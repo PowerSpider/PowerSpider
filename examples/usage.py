@@ -1,3 +1,3 @@
 from powerspider.Download import downloader
 
-print(downloader("https://www.baidu.com"))
+print(downloader("https://www.baidu.com")[:100])
