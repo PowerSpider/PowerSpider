@@ -1,4 +1,4 @@
-from powerspider import logger
+from loguru import logger
 from lxml import html
 
 

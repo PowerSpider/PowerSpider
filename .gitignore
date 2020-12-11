@@ -1,6 +1,8 @@
 *.vscode
 *.pyc
 *.db
+*.iml
+*.xml
+*.log
 venv
 .idea
-*.log

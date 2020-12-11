@@ -1,6 +1,6 @@
 import platform
 from environs import Env
-from powerspider import logger
+from loguru import logger
 from os.path import dirname, abspath, join
 
 env = Env()

@@ -1,4 +1,4 @@
-# 由于对于版本兼容并没有要求
+# 建议使用清华源下载
 requests
 retrying
 loguru
