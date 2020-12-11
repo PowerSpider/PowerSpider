@@ -44,7 +44,7 @@ print(downloader("https://www.baidu.com")[:100])
 ```
 
 ## 待开发
-- [ ] 智能化解析
+- [ ] 模块化解析
 - [ ] 存储封装
 
 欢迎大家start,issue,fork
