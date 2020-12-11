@@ -6,3 +6,4 @@
 *.log
 venv
 .idea
+/powerspider/private
