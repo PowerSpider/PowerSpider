@@ -9,7 +9,7 @@ PowerSpider基于requests、lxml、封装成简单的爬虫。将给您避免大
 * 智能化解析编码(二进制、中文、英文更多)
 * 解放双手，开箱即用。
 
-PowerSpider 原理可参见[释放双手，封装爬虫]()
+PowerSpider 原理可参见[释放双手，封装爬虫](https://mp.weixin.qq.com/s/pMnqFtTff93teAR81MrTZw)
 
 ## 使用要求
 
